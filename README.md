@@ -1,2 +1,0 @@
-# Delphi-Satuan
-# Delphi-Satuan
