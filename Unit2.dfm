@@ -12,7 +12,9 @@ object DataModule2: TDataModule2
     Database = 'penjualan'
     User = 'root'
     Protocol = 'mysql-4.1'
-    LibraryLocation = 'D:\SEMESTER 4\visual 2\uts\TUGAS UTS VISUAL\libmysql.dll'
+    LibraryLocation = 
+      'C:\Program Files (x86)\Borland\Delphi7\Projects\UTS_MUHAMMADMALI' +
+      'KAKBAR_22100472\libmysql.dll'
     Left = 24
     Top = 24
   end

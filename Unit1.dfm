@@ -16,9 +16,9 @@ object Form1: TForm1
   object Label1: TLabel
     Left = 56
     Top = 24
-    Width = 28
+    Width = 29
     Height = 13
-    Caption = 'NAME'
+    Caption = 'NAMA'
   end
   object Label2: TLabel
     Left = 56
@@ -30,9 +30,9 @@ object Form1: TForm1
   object Label3: TLabel
     Left = 64
     Top = 328
-    Width = 56
+    Width = 57
     Height = 13
-    Caption = 'CARI NAME'
+    Caption = 'CARI NAMA'
   end
   object Edit1: TEdit
     Left = 136
@@ -49,7 +49,7 @@ object Form1: TForm1
     TabOrder = 1
   end
   object Button1: TButton
-    Left = 56
+    Left = 88
     Top = 112
     Width = 75
     Height = 25
@@ -58,7 +58,7 @@ object Form1: TForm1
     OnClick = Button1Click
   end
   object Button2: TButton
-    Left = 160
+    Left = 184
     Top = 112
     Width = 75
     Height = 25
